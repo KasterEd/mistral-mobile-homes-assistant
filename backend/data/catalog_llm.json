@@ -1,0 +1,232 @@
+[
+  {
+    "id": "folding-house-std",
+    "category": "folding-house",
+    "titles": {
+      "zh": "标准折叠活动房",
+      "kz": "Стандартты жиналмалы үй",
+      "ru": "Стандартный складной дом",
+      "en": "Standard Folding House",
+      "fr": "Maison Pliable Standard"
+    },
+    "description": {
+      "zh": "采用冷轧钢与复合夹芯板，3分钟内完成展开与固定，适合应急安置与临时办公。",
+      "kz": "Суықтай илектелген болат пен сэндвич-панельдерден жасалған, 3 минутта орнатылады.",
+      "ru": "Изготовлен из холоднокатаной стали и сэндвич-панелей, установка за 3 минуты.",
+      "en": "Made of cold-rolled steel and sandwich panels, unfolds and sets up in just 3 minutes.",
+      "fr": "Fabriquée en acier laminé à froid et panneaux sandwich, se déploie en seulement 3 minutes."
+    },
+    "specs": {
+      "area_m2": 36,
+      "dimensions": "5.8m x 6.3m x 2.5m",
+      "setup_time": "3-5 mins",
+      "lifespan": "10-15 years"
+    },
+    "bullets": {
+      "zh": ["3分钟快速安装", "防火防水等级A级", "多次折叠无损耗"],
+      "kz": ["3 минутта тез орнату", "Отқа/суға төзімділік А класы", "Көп рет бүктеуге жарамды"],
+      "ru": ["Быстрая установка за 3 мин", "Огне/водостойкость класса А", "Многократное складывание"],
+      "en": ["Fast setup in 3 minutes", "Class A fire/water resistance", "Durable folding mechanism"],
+      "fr": ["Installation rapide en 3 min", "Résistance feu/eau Classe A", "Mécanisme pliable durable"]
+    },
+    "image_url": "/images/products/1.jpg",
+    "short": {
+      "zh": "3 分钟展开，适配工地/应急/临时办公。",
+      "kz": "3 минутта жайылады; құрылыс/жедел/уақытша кеңсе.",
+      "ru": "Разворачивание за ~3 мин; стройка/ЧС/временный офис.",
+      "en": "Unfolds in 3 minutes, suitable for construction sites, emergency housing, and temporary offices.",
+      "fr": "Se déplie en 3 minutes, adapté aux chantiers, logements d'urgence et bureaux temporaires."
+    }
+  },
+  {
+    "id": "expandable-container-lux",
+    "category": "dual-extension-box",
+    "titles": {
+      "zh": "豪华双翼扩展箱",
+      "kz": "Люкс қос қанатты кеңейтілетін үй",
+      "ru": "Люкс контейнер с двойным расширением",
+      "en": "Luxury Expandable Container",
+      "fr": "Conteneur Extensible de Luxe"
+    },
+    "description": {
+      "zh": "两翼同步展开，室内净空快速翻倍，包含完整卫浴与厨房设施，适合家庭居住。",
+      "kz": "Екі қанаты ашылып, кеңістік екі еселенеді. Толық жуынитын бөлме мен ас үй бар.",
+      "ru": "Двойное расширение увеличивает площадь вдвое. Включает ванную и кухню.",
+      "en": "Double-wing expansion doubles the living space instantly. Includes full bathroom and kitchen.",
+      "fr": "L'extension à double aile double l'espace de vie instantanément. Inclut salle de bain et cuisine."
+    },
+    "specs": {
+      "area_m2": 72,
+      "layout": "2 Bedroom, 1 Living, 1 Bath",
+      "folded_size": "Standard 40ft Container",
+      "insulation": "75mm PU Panel"
+    },
+    "bullets": {
+      "zh": ["空间利用率极高", "精装修交付", "适合家庭度假"],
+      "kz": ["Кеңістікті тиімді пайдалану", "Толық әрленген", "Отбасылық демалысқа арналған"],
+      "ru": ["Высокая эффективность пространства", "Чистовая отделка", "Для семейного отдыха"],
+      "en": ["High space efficiency", "Turnkey finish", "Ideal for family vacations"],
+      "fr": ["Haute efficacité d'espace", "Finition clé en main", "Idéal pour vacances en famille"]
+    },
+    "image_url": "/images/products/9.jpg",
+    "short": {
+      "zh": "左右侧滑出拓展，面积瞬时翻倍。",
+      "kz": "Екі бүйірден сырғу-кеңею — алаң бірден ұлғаяды.",
+      "ru": "Выдвижные секции слева/справа — площадь увеличивается вдвое.",
+      "en": "Expands on both sides, instantly doubling the usable floor area.",
+      "fr": "S'étend des deux côtés, doublant instantanément la surface habitable."
+    }
+  },
+  {
+    "id": "packaged-box-mod",
+    "category": "packaged-box",
+    "titles": {
+      "zh": "标准化打包箱",
+      "kz": "Стандартталған жиналмалы қорап",
+      "ru": "Стандартный блок-контейнер",
+      "en": "Standard Flat-Pack Container",
+      "fr": "Conteneur Flat-Pack Standard"
+    },
+    "description": {
+      "zh": "标准化模块设计，运输堆叠占地小，便于长途运输与快速部署项目营地。",
+      "kz": "Стандартты модульдік дизайн, тасымалдауға ыңғайлы, тез құрылатын лагерьлер үшін.",
+      "ru": "Стандартный модульный дизайн, удобен для перевозки и быстрого развертывания лагерей.",
+      "en": "Standardized modular design, stackable for transport, ideal for rapid camp deployment.",
+      "fr": "Conception modulaire standardisée, empilable pour le transport, idéal pour déploiement rapide."
+    },
+    "specs": {
+      "dimensions": "6m x 3m x 2.8m",
+      "stackable": "Up to 3 floors",
+      "wall_panel": "50mm Rock Wool"
+    },
+    "bullets": {
+      "zh": ["运输成本低 (1车装4套)", "模块化自由组合", "坚固耐用"],
+      "kz": ["Тасымалдау арзан", "Модульдік құрастыру", "Берік және төзімді"],
+      "ru": ["Низкая стоимость доставки", "Модульная комбинация", "Прочность и долговечность"],
+      "en": ["Low transport cost", "Flexible modular combination", "Robust and durable"],
+      "fr": ["Coût de transport réduit", "Combinaison modulaire flexible", "Robuste et durable"]
+    },
+    "image_url": "/images/products/2.jpg",
+    "short": {
+      "zh": "标准化模块，快速交付与安装。",
+      "kz": "Стандарт модуль, жедел жеткізу/монтаж.",
+      "ru": "Стандартизованный модуль, быстрая поставка/монтаж.",
+      "en": "Standardized module ensuring fast delivery and quick installation.",
+      "fr": "Module standardisé assurant une livraison rapide et une installation facile."
+    }
+  },
+  {
+    "id": "apple-cabin-pod",
+    "category": "assembled-container",
+    "titles": {
+      "zh": "网红太空舱/苹果舱",
+      "kz": "Apple Cabin / Ғарыш капсуласы",
+      "ru": "Apple Cabin / Космическая капсула",
+      "en": "Apple Cabin / Space Pod",
+      "fr": "Apple Cabin / Capsule Spatiale"
+    },
+    "description": {
+      "zh": "极具现代感的外观设计，全景落地窗，智能家居系统，适合高端民宿与办公室。",
+      "kz": "Заманауи дизайн, панорамалық терезелер, ақылды үй жүйесі.",
+      "ru": "Современный дизайн, панорамные окна, система умный дом.",
+      "en": "Ultra-modern design with panoramic floor-to-ceiling windows and smart home systems.",
+      "fr": "Design ultra-moderne avec fenêtres panoramiques et systèmes domotiques."
+    },
+    "specs": {
+      "frame": "Aviation Aluminum",
+      "glass": "Double-layer tempered",
+      "features": "Voice control, AC included"
+    },
+    "bullets": {
+      "zh": ["无需地基，随处落地", "高端外观吸引流量", "隔音隔热性能卓越"],
+      "kz": ["Іргетас қажет емес", "Тартымды дизайн", "Дыбыс/жылу оқшаулауы жоғары"],
+      "ru": ["Не требует фундамента", "Премиальный вид", "Отличная звукоизоляция"],
+      "en": ["No foundation needed", "Premium aesthetic", "Excellent sound/heat insulation"],
+      "fr": ["Pas de fondation requise", "Esthétique premium", "Excellente isolation phonique"]
+    },
+    "image_url": "/images/products/3.jpg",
+    "short": {
+      "zh": "模块化拼装，稳固抗风震。",
+      "kz": "Модульдік құрастыру, жел/сейсмикаға төзімді.",
+      "ru": "Модульная сборка, ветро‑/сейсмостойкость.",
+      "en": "Modular assembly with high stability against wind and seismic activity.",
+      "fr": "Assemblage modulaire avec une grande stabilité contre le vent et les séismes."
+    }
+  },
+  {
+    "id": "heavy-steel-warehouse",
+    "category": "steel-structure",
+    "titles": {
+      "zh": "重型钢结构厂房",
+      "kz": "Ауыр болат құрылымды цех",
+      "ru": "Тяжелый цех из металлоконструкций",
+      "en": "Heavy Steel Structure Warehouse",
+      "fr": "Entrepôt à Structure Métallique Lourde"
+    },
+    "description": {
+      "zh": "H型钢主梁，热镀锌防腐处理，适用于大型工厂、仓储中心与飞机库。",
+      "kz": "H-тәрізді болат арқалықтар, ыстық мырыштау, ірі зауыттар мен қоймалар үшін.",
+      "ru": "Балки H-профиля, горячее цинкование, для крупных заводов и складов.",
+      "en": "H-beam main structure with hot-dip galvanization, suitable for factories and hangars.",
+      "fr": "Structure principale en poutres H galvanisées à chaud, adaptée aux usines et hangars."
+    },
+    "specs": {
+      "span": "10m - 50m clear span",
+      "wind_load": "Up to 120km/h",
+      "roof": "0.5mm Corrugated Steel"
+    },
+    "bullets": {
+      "zh": ["超大跨度无立柱", "抗震抗风设计", "50年以上使用寿命"],
+      "kz": ["Үлкен аралық", "Желге/сейсмикаға төзімді", "50 жылдан астам қызмет етеді"],
+      "ru": ["Большой пролет без колонн", "Сейсмо/ветроустойчивость", "Срок службы 50+ лет"],
+      "en": ["Large clear span", "Seismic & wind resistant", "50+ years lifespan"],
+      "fr": ["Grande portée libre", "Résistant au séisme et au vent", "Durée de vie de 50+ ans"]
+    },
+    "image_url": "/images/home/highlights/1.jpg",
+    "short": {
+      "zh": "钢结构系列，适配厂房/仓储/设备房。",
+      "kz": "Болат конструкциялар: цех/қойма/жабдық бөлмесі.",
+      "ru": "Серия стальных конструкций: цех, склад, оборудование.",
+      "en": "Steel structure series suitable for factories, warehouses, and equipment rooms.",
+      "fr": "Série de structures en acier adaptée aux usines, entrepôts et locaux techniques."
+    }
+  },
+  {
+    "id": "special-equipment-box",
+    "category": "equipment-box",
+    "titles": {
+      "zh": "特种设备集装箱",
+      "kz": "Арнайы жабдық контейнері",
+      "ru": "Контейнер для спецоборудования",
+      "en": "Special Equipment Container",
+      "fr": "Conteneur pour Équipement Spécial"
+    },
+    "description": {
+      "zh": "为发电机组、水处理设备定制，具备高防护等级，防尘防水防腐蚀。",
+      "kz": "Генераторлар мен су тазартуға арналған, қорғанысы жоғары.",
+      "ru": "Для генераторов и водоочистки, высокий уровень защиты от среды.",
+      "en": "Customized for generators/water treatment, offering high IP-rated protection.",
+      "fr": "Personnalisé pour générateurs/traitement d'eau, haute protection IP."
+    },
+    "specs": {
+      "protection": "IP55 / IP65",
+      "paint": "Marine grade anti-corrosion",
+      "floor": "Anti-static / Checker plate"
+    },
+    "bullets": {
+      "zh": ["定制开孔与加强", "适应恶劣户外环境", "集成电气系统"],
+      "kz": ["Арнайы тесіктер мен күшейту", "Қатал ауа райына төзімді", "Электр жүйесі біріктірілген"],
+      "ru": ["Индивидуальные проемы", "Для суровых условий", "Интеграция электрики"],
+      "en": ["Custom openings & reinforcement", "Built for harsh environments", "Integrated electricals"],
+      "fr": ["Ouvertures & renforts sur mesure", "Conçu pour environnements rudes", "Électricité intégrée"]
+    },
+    "image_url": "/images/products/8.jpg",
+    "short": {
+      "zh": "适配电力/水务/暖通设备，防雨防盗。",
+      "kz": "Электр/су/ЖЖЖ жабдықтарына лайық — су өтпес, қорғалған.",
+      "ru": "Под энергетику/водоснабжение/HVAC; защита от осадков и взлома.",
+      "en": "Designed for power, water, or HVAC equipment; rainproof and secure.",
+      "fr": "Conçu pour les équipements électriques, hydrauliques ou CVC ; étanche et sécurisé."
+    }
+  }
+]

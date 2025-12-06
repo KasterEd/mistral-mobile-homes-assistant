@@ -2,6 +2,7 @@
 import os, ssl, smtplib, socket
 from datetime import datetime
 from email.message import EmailMessage
+from routes.chat import router as chat_router
 
 from fastapi import FastAPI, BackgroundTasks, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -20,6 +21,7 @@ if not (SMTP_USER and SMTP_PASS and MAIL_TO):
     raise RuntimeError("Missing SMTP_USER/SMTP_PASS/MAIL_TO env vars")
 
 app = FastAPI(title="Contact Form Mailer")
+app.include_router(chat_router, prefix="/api")
 
 # Allow your frontend origin(s)
 app.add_middleware(
