@@ -50,7 +50,7 @@ def extract_json_from_text(text: str) -> str:
         candidate = text[start : end + 1]
         return candidate
 
-    # Fall back to original text
+
     return text
 
 @router.post("/chat", response_model=ChatResponse)
@@ -110,8 +110,6 @@ async def chat(req: ChatRequest):
     try:
         llm_obj = json.loads(clean)
     except json.JSONDecodeError:
-        # Fallback: if the model still returns something weird,
-        # just show it as a plain-text summary with no cards.
         latency_ms = int((time.time() - start) * 1000)
         return ChatResponse(summary=raw_content, products=[], latency_ms=latency_ms)
 
