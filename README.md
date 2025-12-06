@@ -6,11 +6,15 @@ Multilingual product catalog site with an LLM-powered assistant that helps merch
 - **Frontend:** Vue 3, TypeScript, Vite  
 - **Infra:** Docker, docker-compose, Nginx  
 - **Live demo:** https://mistral.its-kaster.de/kz/assistant
-- Current limitation:
-The UI and catalog content are localized, but the LLM answers are currently configured to respond in English for consistency. Extending the assistant to respond in the selected language is part of the planned future work.
 
 This project is submitted as part of my application for the **Software Engineer – Paris (Internship)** position at Mistral AI.
 
+---
+## 3-second summary
+
+- Real commercial catalog site extended with an LLM assistant.
+- Python + FastAPI backend using Mistral chat API.
+- Deployed and demo-ready: https://mistral.its-kaster.de/kz/assistant
 ---
 ## Key Files (Mistral Assistant)
 
@@ -90,6 +94,26 @@ High-level diagram:
 
 ---
 
+## Alignment with the Mistral Internship Brief
+
+From the job description:
+
+> **Flexible Topic:** Choose a topic using Python with FastAPI or Next.js with TypeScript that incorporates our SDK.
+
+This project implements that option:
+
+- **Python + FastAPI** backend that integrates with the **Mistral chat API**.
+- Frontend SPA in **TypeScript** (Vue 3) providing a chat-like interface.
+- The assistant is a concrete example of “LLM-powered tooling” for a real business vertical (modular housing).
+
+Best practices highlighted in the brief:
+
+- **Detailed README:** this document explains architecture, setup, and how to test.
+- **Easy to test:** the project can be run locally with a few commands or via Docker, and the assistant can be exercised through both HTTP and UI.
+
+---
+
+
 ## Background & Motivation
 
 Over the summer I built a commercial website for a company that manufactures modular mobile homes and container buildings. The original project was a classic catalog site:
@@ -108,25 +132,6 @@ This project extends that summer website with an **Intelligent Product Assistant
 - A concise recommendation
 - One or two specific products from the catalog
 - Images, descriptions, and direct links to view or inquire about those products
-
----
-
-## Alignment with the Mistral Internship Brief
-
-From the job description:
-
-> **Flexible Topic:** Choose a topic using Python with FastAPI or Next.js with TypeScript that incorporates our SDK.
-
-This project implements that option:
-
-- **Python + FastAPI** backend that integrates with the **Mistral chat API**.
-- Frontend SPA in **TypeScript** (Vue 3) providing a chat-like interface.
-- The assistant is a concrete example of “LLM-powered tooling” for a real business vertical (modular housing).
-
-Best practices highlighted in the brief:
-
-- **Detailed README:** this document explains architecture, setup, and how to test.
-- **Easy to test:** the project can be run locally with a few commands or via Docker, and the assistant can be exercised through both HTTP and UI.
 
 ---
 
