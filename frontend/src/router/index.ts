@@ -2,6 +2,7 @@
 import { createRouter, createWebHistory, type RouteRecordRaw } from 'vue-router'
 
 // Pages
+import aiAssis from '@/pages/AssistnatView.vue'
 import Home from '@/pages/Home.vue'
 import About from '@/pages/About.vue'
 import TextPage from '@/pages/TextPage.vue'
@@ -22,6 +23,12 @@ import { installI18nGuard } from '@/router/localeGuards.ts'
 const LOCALE_PREFIX = '/:locale(zh|kz|ru)?'
 
 const routes: RouteRecordRaw[] = [
+  //Virtual assistant powered by Mistral
+  {
+    path: `${LOCALE_PREFIX}/assistant`,
+    name: 'Assistant',
+    component: aiAssis,
+  },
   // Home
   {
     path: `${LOCALE_PREFIX}`,
